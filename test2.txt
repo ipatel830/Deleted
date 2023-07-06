@@ -1,1 +1,7 @@
-Test 2 - ishan smells
+Easiest Git Flow 
+(Provided no issues with deleting and merging and branches etc.)
+Git fetch 
+Git pull 
+Git add -A
+Git commit -m "--- your message----"
+Git push origin main
