@@ -1,0 +1,20 @@
+
+
+
+     //classified_PDG.emplace_back(classifiedPDG);
+        //   std::cout<<"\n******************************************"<<std::endl;
+         
+        //    std::cout<<"\n Event "<<i<<" \n";
+        //   std::cout<<"Prompt PE "<<promptvector.at(i)<<"  ";
+        //   std::cout<<"Prelim PE "<<prelimvector.at(i)<<"  ";
+        //    std::cout<<"n Above Threshold "<<nabovevector.at(i)<<" ";
+   
+        //  std::cout<<"\n******************************************\n"<<std::endl;
+      
+         // for(size_t j=0;j<geniestatus[i].size() && j<bigvector[i].size();j++){
+         //    if(geniestatus[i][j]==1){
+         //        if(((bigvector[i][j]==2112)||(bigvector[i][j]==2212))){
+         //            //  std::cout<<"\n PDG: "<<bigvector[i][j]<<" Status Code:"<<geniestatus[i][j]<<"\n";
+         //        }
+         //    }
+         // }
